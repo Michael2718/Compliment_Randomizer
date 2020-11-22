@@ -39,3 +39,4 @@ if __name__ == "__main__":
     file = open('adjectives.txt', mode='r', encoding='utf8').read()
     arr_of_adjectives = file.split("\n")
     print("Спокойной ночи, моя {}❤".format(generate_compliment(arr_of_adjectives, mode='single')))  # Usage example
+    print("Спокойной ночи, мои {}❤".format(generate_compliment(arr_of_adjectives, mode='plural')))
