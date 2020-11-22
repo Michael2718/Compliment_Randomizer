@@ -5,7 +5,7 @@ You can't make cool compliments? Here we go, now you can simply get random compl
 Requirements
 ------------
 
-Import lib from standard library.
+"Random" lib from standard library.
 
 
 
